@@ -1,6 +1,6 @@
 # Inference in Bayesian Networks Alarm Network
 
-Refer to "Inference in Bayesian Networks Statement.pdf"and the following Image file.
+Refer to "Inference in Bayesian Networks Statement.pdf" and the following Image file.
 
 ![Screenshot](alarm.png)
 
@@ -8,7 +8,7 @@ python3 PA3.py "[< N1,V1 >,...,< NN,VN >]" "[NQ1,NQM]"
 
 Assumptions:
 
-1.	Different numbers of sample size are set in list as sampleSizes = 	(10,50,100,200,500,1000,10000)
+1.	Different numbers of sample size are set in list as sampleSizes = 	(10,50,100,200,500,1000,10000).<br/>
 	Program enumerates through each element of the list and runs each sampling
 	for that value as sample size.
 
