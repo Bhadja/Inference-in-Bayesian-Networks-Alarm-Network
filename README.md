@@ -1,6 +1,6 @@
 # Inference in Bayesian Networks Alarm Network
 
-![Screenshot](HMM.png)
+![Screenshot](alarm.png)
 
 python3 PA3.py "[< N1,V1 >,...,< NN,VN >]" "[NQ1,NQM]" 
 
